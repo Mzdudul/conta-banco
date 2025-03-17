@@ -19,6 +19,6 @@ public class ContaBanco {
 
         double saldo = 2450.65;
 
-        System.out.println("Ola " + nome+", obrigado por criar uma conta em nosso banco, sua agencia e " + numeroAgencia+", conta " + numeroConta + " e seu saldo " + saldo + " ja esta disponivel para saque.");
+        System.out.println("Ola " + nome+", bem-vindo novamente ao nosso banco, sua agência é " + numeroAgencia+", conta " + numeroConta + " e seu saldo " + saldo + " já está disponivel para saque.");
 }
 }
